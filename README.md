@@ -1,6 +1,8 @@
 # Learn-rust
 coding practices to learn Rust Programming Language
 <br>
+[install rust](https://www.rust-lang.org/tools/install)
+<br>
 [Intro-Video](https://www.freecodecamp.org/news/rust-in-replit/)
 <br>
 "[Rust] deals with low-level details of memory management, data representation, and concurrency."
