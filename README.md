@@ -1,4 +1,4 @@
-# Learn-rust
+# Learn-Rust
 coding practices to learn Rust Programming Language
 <br>
 [install rust](https://www.rust-lang.org/tools/install)
