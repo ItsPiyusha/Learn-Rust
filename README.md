@@ -29,3 +29,8 @@ to run the project, navigate into project directory by using cd project-folder
 and use 'cargo run' command
 <br>
 or use command -->'rustc ./src/main.rs
+<br>
+on 1/28/2023, I'm just commiting hello world program to this repo.
+/d/All/Open_Source/Learn-rust/calculator 
+git add *
+git commit
